@@ -1,0 +1,9 @@
+Gráfico de países: https://melaniesoek0120.medium.com/data-visualization-how-to-plot-a-map-with-geopandas-in-python-73b10dcd4b4b
+
+Dataset: Kaggle.com
+
+Costes de la fuentes de energía: https://www.iea.org/reports/projected-costs-of-generating-electricity-2020
+
+Coordenadas de los países: https://raw.githubusercontent.com/melanieshi0120/COVID-19_global_time_series_panel_data/master/data/countries_latitude_longitude.csv
+
+Coordenadas de los países2: https://developers.google.com/public-data/docs/canonical/countries_csv
